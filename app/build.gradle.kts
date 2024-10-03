@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ahmedapps.geminichatbot"
+    namespace = "com.ananduapps.lawmate"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.ahmedapps.geminichatbot"
+        applicationId = "com.ananduapps.lawmate"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.ahmedapps.geminichatbot
+package com.ananduapps.lawmate
 
 import org.junit.Test
 

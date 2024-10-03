@@ -1,4 +1,4 @@
-package com.ahmedapps.geminichatbot
+package com.ananduapps.lawmate
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

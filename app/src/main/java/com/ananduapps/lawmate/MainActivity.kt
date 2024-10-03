@@ -1,4 +1,4 @@
-package com.ahmedapps.geminichatbot
+package com.ananduapps.lawmate
 
 import android.graphics.Bitmap
 import android.net.Uri
@@ -52,8 +52,9 @@ import coil.compose.AsyncImagePainter
 import coil.compose.rememberAsyncImagePainter
 import coil.request.ImageRequest
 import coil.size.Size
-import com.ahmedapps.geminichatbot.ui.theme.GeminiChatBotTheme
-import com.ahmedapps.geminichatbot.ui.theme.Green
+import com.ananduapps.lawmate.R
+import com.ananduapps.lawmate.ui.theme.GeminiChatBotTheme
+import com.ananduapps.lawmate.ui.theme.Green
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.update
 

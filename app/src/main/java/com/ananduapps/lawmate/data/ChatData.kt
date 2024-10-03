@@ -1,8 +1,7 @@
-package com.ahmedapps.geminichatbot.data
+package com.ananduapps.lawmate.data
 
 import android.graphics.Bitmap
 import com.google.ai.client.generativeai.GenerativeModel
-import com.google.ai.client.generativeai.type.ResponseStoppedException
 import com.google.ai.client.generativeai.type.content
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
@@ -12,7 +11,7 @@ import kotlinx.coroutines.withContext
  */
 object ChatData {
 
-    val api_key = "AIzaSyBtPQG2TNshIZGkNe3DjTfMRdXq8gF1ju0"
+    val api_key = "AIzaSyAgNSjT4D1wnFirnvbYWNBBYMtce2CU-ac"
 
     suspend fun getResponse(prompt: String): Chat {
         val generativeModel = GenerativeModel(

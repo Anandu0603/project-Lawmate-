@@ -1,10 +1,10 @@
-package com.ahmedapps.geminichatbot
+package com.ananduapps.lawmate
 
 import android.graphics.Bitmap
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.ahmedapps.geminichatbot.data.Chat
-import com.ahmedapps.geminichatbot.data.ChatData
+import com.ananduapps.lawmate.data.Chat
+import com.ananduapps.lawmate.data.ChatData
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update

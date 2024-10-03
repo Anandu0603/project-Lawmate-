@@ -1,4 +1,4 @@
-package com.ahmedapps.geminichatbot.data
+package com.ananduapps.lawmate.data
 
 import android.graphics.Bitmap
 

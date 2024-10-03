@@ -1,4 +1,4 @@
-package com.ahmedapps.geminichatbot.ui.theme
+package com.ananduapps.lawmate.ui.theme
 
 import android.app.Activity
 import android.os.Build

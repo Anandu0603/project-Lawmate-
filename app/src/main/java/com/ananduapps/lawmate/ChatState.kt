@@ -1,7 +1,7 @@
-package com.ahmedapps.geminichatbot
+package com.ananduapps.lawmate
 
 import android.graphics.Bitmap
-import com.ahmedapps.geminichatbot.data.Chat
+import com.ananduapps.lawmate.data.Chat
 
 /**
  * @author Ahmed Guedmioui
