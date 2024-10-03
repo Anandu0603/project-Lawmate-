@@ -1,0 +1,3 @@
+Hello all thanks for rechinng out to me ..this project is designed for legal guidence and assistant to common citizens.
+those who are reached here kindly add your api key for the smooth purposes and modify it according to  it 
+thank you.... happy coding....
